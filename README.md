@@ -54,13 +54,6 @@ Flowchart of this program can be downloaded here: [snake game flowchart.pdf](htt
 
 (make sure that your capslock is disabled)
 
-## Screenshots
-![](screenshots/startscreen.png)
-
-![](screenshots/ingame.jpg)
-
-![](screenshots/youdied.png)
-
 ## Installation
 To start the game you will need to install the following items:
 1. visual studios   (can be installed [here](https://visualstudio.microsoft.com/downloads/)) 
